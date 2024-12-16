@@ -1,0 +1,21 @@
+/* style={{width: '100vw', display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh'} */
+/* style={{maxWidth: '50vw', maxHeight: '80vh', alignSelf: 'center'}} */
+.slider-container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.slider{
+    max-width: 50vw;
+    max-height: 80vh;
+    align-self: center;
+}
+
+@media screen and (max-width: 425px) {
+   .slider{
+    max-width: 90vw;
+   }
+    }

@@ -1,0 +1,23 @@
+/* style={{padding: '20px',  alignContent: 'flex-start',width: '100vw', justifyItems: 'center', position: 'fixed', height: '5vh', top: '90vh' */
+/* fontSize: '12px', justifySelf: 'center', transform: 'translateX(-50%)' */
+.button-container{
+    padding: 20px;
+    align-content: flex-start;
+    width: 100vw;
+    justify-items: center;
+    position: fixed;
+    height: 5vh;
+    top: 90vh;
+}
+
+.menu-button{
+font-size: 12px;
+justify-self: center;
+transform: translateX(-50%);
+transition: font-wieght .3s ease;
+}
+
+.menu-button:hover{
+    font-weight: 900;
+}
+

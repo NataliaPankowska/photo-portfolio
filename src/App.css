@@ -1,0 +1,7 @@
+.app{
+    height: 100vh;
+    overflow: show;
+}
+
+
+/* { height: '100%',width: navVisibility ? '50%' : '20%', display: 'flex', justifyContent: 'center', backgroundColor: 'white', zIndex: '22',  transition: 'width 1s ease-out 1s'} */
