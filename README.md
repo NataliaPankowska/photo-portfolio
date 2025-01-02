@@ -1,3 +1,6 @@
+Photographic portfolio website. I wanted to keep the design as simple as possible. 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
